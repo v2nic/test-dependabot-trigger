@@ -2,6 +2,6 @@
   "name": "test-dependabot-trigger",
   "version": "1.0.0",
   "dependencies": {
-    "lodash": "4.17.20"
+    "lodash": "4.18.1"
   }
 }
